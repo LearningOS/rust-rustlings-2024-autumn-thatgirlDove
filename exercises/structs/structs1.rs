@@ -6,7 +6,6 @@
 // hint.
 
 
-
 struct ColorClassicStruct {
     // TODO: Something goes here
     pub red: i32,
